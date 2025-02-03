@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'soruuyg.dart';
 
+
 void main() {
   runApp(const MyApp());
 }

@@ -73,17 +73,9 @@ String a_sikki_yaz(){
    }
    sonraki_soruya_gec();
 
-}
-
-
-
+  }
 
 }
-
-
-
-
-
 
 // YAPi
 class Soru{
