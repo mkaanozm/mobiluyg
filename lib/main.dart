@@ -208,7 +208,7 @@ class _SoruEkraniState extends State<SoruEkrani> {
               child: Padding(
                 padding: EdgeInsets.all(10.0),
                 child: Text(
-                  "Sonuç: ${BenimTestim.d_y_bilgisi.length} Doğru / ${soruIndex - 1} Soru",
+                  "Sonuç: ${BenimTestim.d_y_bilgisi.length} Doğru / ${soruIndex - 1} Yanlış",
                   style: TextStyle(fontSize: 18),
                 ),
               ),
